@@ -1,7 +1,0 @@
-@echo off
-setlocal
-set "input=%~1"
-set "qp=29"
-set "output=%~dp1\%~n1_%qp%.mp4"
-ffmpeg -hide_banner -i "%input%" -c:v hevc_nvenc -preset p7 -profile:v main -s 1280x720 -r 60000/1001 -rc constqp -qp %qp% -tier main -c:a copy "%output%"
-pause
