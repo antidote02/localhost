@@ -1,5 +1,5 @@
 {
-  "name": "bilibili",
+  "name": "wechat",
   "nodes": [
     {
       "id": "03619649-022b-4b9a-8d4d-aa37b18f4f91",
@@ -15,7 +15,7 @@
       "inputs": [],
       "outputs": [
         [
-          "70963d03-9588-455d-ab94-b32357772bf9"
+          "028669c4-83b1-405b-84de-c04d87017231"
         ]
       ]
     },
@@ -33,7 +33,7 @@
       "inputs": [],
       "outputs": [
         [
-          "fb5adc3b-b56c-49cc-b408-882317f26773"
+          "ad81c531-a69b-49d3-9aec-e1638b3d3ffe"
         ]
       ]
     },
@@ -43,13 +43,13 @@
       "mediaType": "video",
       "pos": {
         "x": 90.0,
-        "y": -79.0
+        "y": -78.0
       },
       "data": {
         "id": "hevc_nvenc",
         "params": {
           "rc": "vbr",
-          "b": 20000000,
+          "b": 6000000,
           "maxrate": 0,
           "bufsize": 0,
           "cq": 0,
@@ -62,12 +62,12 @@
       },
       "inputs": [
         [
-          "70963d03-9588-455d-ab94-b32357772bf9"
+          "028669c4-83b1-405b-84de-c04d87017231"
         ]
       ],
       "outputs": [
         [
-          "254de467-5c95-4e14-99c1-4770109a39fd"
+          "3448d16c-228e-403d-9d5b-8117a5d4ea5c"
         ]
       ]
     },
@@ -91,12 +91,12 @@
       },
       "inputs": [
         [
-          "fb5adc3b-b56c-49cc-b408-882317f26773"
+          "ad81c531-a69b-49d3-9aec-e1638b3d3ffe"
         ]
       ],
       "outputs": [
         [
-          "b4eeca8b-20b5-49b1-bc6c-e3b0adcf5d02"
+          "d9d8b522-7e6a-4e1c-8d07-762f961c8149"
         ]
       ]
     },
@@ -114,15 +114,15 @@
       },
       "inputs": [
         [
-          "254de467-5c95-4e14-99c1-4770109a39fd"
+          "3448d16c-228e-403d-9d5b-8117a5d4ea5c"
         ],
         [
-          "b4eeca8b-20b5-49b1-bc6c-e3b0adcf5d02"
+          "d9d8b522-7e6a-4e1c-8d07-762f961c8149"
         ]
       ],
       "outputs": [
         [
-          "f1ada1e5-9fc6-4777-97ed-1f5d8e8ed33b"
+          "c5fb7303-7f9b-41de-a318-19a9647a6322"
         ]
       ]
     },
@@ -140,7 +140,7 @@
       },
       "inputs": [
         [
-          "f1ada1e5-9fc6-4777-97ed-1f5d8e8ed33b"
+          "c5fb7303-7f9b-41de-a318-19a9647a6322"
         ]
       ],
       "outputs": []
