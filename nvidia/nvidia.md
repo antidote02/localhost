@@ -14,3 +14,9 @@
 ![](image-3.png)
 * `设备管理器`  
 ![](image.png)
+* `Win 1337 Apply Patch` [[github.com]](https://github.com/ramhaidar/Win_1337_Apply_Patch/releases)
+    * `NVENC patch` [[github.com]](https://github.com/keylase/nvidia-patch/tree/master/win/win10_x64)  
+    * `nvencodeapi64.1337`  
+    `C:\Windows\System32`
+    * `nvencodeapi.1337`  
+    `C:\Windows\SysWOW64`
