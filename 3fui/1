@@ -1,0 +1,1 @@
+"C:\Users\a1729\AppData\Local\Flowframes\FlowframesData\pkgs\av\ffmpeg"  -loglevel warning -stats -y -r 48000/1001 -i pipe:   -aspect 16:9 -movflags +faststart -c:v hevc_nvenc -g 480 -b:v 0 -preset p7 -cq 18 -pix_fmt yuv420p "C:\Users\a1729\Videos\output\OVA いまりあ ＃5 [中文字幕]\OVA いまりあ ＃5 [中文字幕]-2x-RIFE4.26-47.952fps.mp4"
