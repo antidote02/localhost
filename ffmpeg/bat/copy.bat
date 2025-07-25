@@ -1,2 +1,3 @@
-ffmpeg -hide_banner -i "%~1" -c copy "%~1_2.mp4"
+@echo off
+ffmpeg -hide_banner -i "%~1" -c copy "%~dpn1.mp4"
 pause
