@@ -4,10 +4,11 @@
 * `扩展程序`
     * `ADblock Plus` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/adblock-plus-%E5%85%8D%E8%B4%B9%E7%9A%84%E5%B9%BF%E5%91%8A%E6%8B%A6%E6%88%AA%E5%99%A8/cfhdojbkjhnklbpkdaibdccddilifddb)
     * `篡改猴测试版` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%AF%A1%E6%94%B9%E7%8C%B4%E6%B5%8B%E8%AF%95%E7%89%88/gcalenpjmijncebpfijmoaglllgpjagf)
-        * `度娘加速` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/512984-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E8%A7%A3%E6%9E%90%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD-%E5%BA%A6%E5%A8%98%E5%8A%A0%E9%80%9F)
-        * `XMaster` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/527918-xmaster-power-tools-for-x-twitter)
         * `快猫/红杏/含羞草/麻豆TV/AvPron/9sex/91TV/猫咪/小狐狸/橘猫/91pron/91吃鸡破解VIP视频免费看` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/456496-%E5%BF%AB%E7%8C%AB-%E7%BA%A2%E6%9D%8F-%E5%90%AB%E7%BE%9E%E8%8D%89-%E9%BA%BB%E8%B1%86tv-avpron-9sex-91tv-%E7%8C%AB%E5%92%AA-%E5%B0%8F%E7%8B%90%E7%8B%B8-%E6%A9%98%E7%8C%AB-91pron-91%E5%90%83%E9%B8%A1%E7%A0%B4%E8%A7%A3vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%9C%8B)
             * `含羞草` [[www.fi11.app]](https://www.fi11.app/)
+        * `度娘加速` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/512984-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98svip%E8%A7%A3%E6%9E%90%E9%AB%98%E9%80%9F%E4%B8%8B%E8%BD%BD-%E5%BA%A6%E5%A8%98%E5%8A%A0%E9%80%9F)
+        * `网盘直链下载助手` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/512125-%E7%BD%91%E7%9B%98%E7%9B%B4%E9%93%BE%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B-%E8%87%AA%E5%8A%A8%E6%98%BE%E7%A4%BA%E6%9A%97%E5%8F%B7)
+        * `XMaster` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/527918-xmaster-power-tools-for-x-twitter)
     * `猫抓` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/%E7%8C%AB%E6%8A%93/jfedfbgedapdagkghmgibemcoggfppbb)
     * `ZeroOmega` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/proxy-switchyomega-3-zero/pfnededegaaopdmhkdmcofjmoldfiped)
     * `SteamDB` [[chromewebstore.google.com]](https://chromewebstore.google.com/detail/steamdb/kdbmhfkmnlmbkgbabkdealhhbfhlmmon)
