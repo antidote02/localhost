@@ -10,18 +10,12 @@
 * `JavLibrary` [[www.javlibrary.com]](https://www.javlibrary.com/cn/)
 * `JavGuru` [[jav.guru]](https://jav.guru/)
 * `Google 翻译` [[translate.google.com]](https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate)
-## 历史记录
-https://jable.tv/tags/pantyhose/1/  
-https://jable.tv/tags/pantyhose/2/  
-https://jable.tv/videos/mtall-150/  
-https://jable.tv/videos/mukc-098/  
-https://www.javlibrary.com/cn/?v=javmey3e3a  
-https://www.javlibrary.com/cn/?v=javmeyy7ru  
-https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate
 ## 网站
 * `快猫/红杏/含羞草/麻豆TV/AvPron/9sex/91TV/猫咪/小狐狸/橘猫/91pron/91吃鸡破解VIP视频免费看` [[greasyfork.org]](https://greasyfork.org/zh-CN/scripts/456496-%E5%BF%AB%E7%8C%AB-%E7%BA%A2%E6%9D%8F-%E5%90%AB%E7%BE%9E%E8%8D%89-%E9%BA%BB%E8%B1%86tv-avpron-9sex-91tv-%E7%8C%AB%E5%92%AA-%E5%B0%8F%E7%8B%90%E7%8B%B8-%E6%A9%98%E7%8C%AB-91pron-91%E5%90%83%E9%B8%A1%E7%A0%B4%E8%A7%A3vip%E8%A7%86%E9%A2%91%E5%85%8D%E8%B4%B9%E7%9C%8B)
 * `含羞草` [[www.fi11.app]](https://www.fi11.app/)
 * `麻豆 TV` [[madou.tv]](https://madou.tv/new)
-## 记事本
-```
-挑逗大叔的清纯系超变态地下偶像 秘密角色扮演痴女抽插 榨取精液的中出与角色扮演性爱让她变成真正的肉便器超M妹子 齐藤帆夏
+## 历史记录
+https://jable.tv/tags/pantyhose/1/  
+https://jable.tv/videos/sone-785/  
+https://www.javlibrary.com/cn/?v=javmeyykyq  
+https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate
