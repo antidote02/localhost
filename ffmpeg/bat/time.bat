@@ -20,7 +20,6 @@ if exist "%temp1%" if not exist "%temp2%" (
     pause
     exit /b
 )
-echo Rand
 powershell -Command ^
     "$start = [datetime]::ParseExact((Get-Content '%temp1%'), 'yyyy-MM-dd HH:mm:ss', $null);" ^
     "$end = [datetime]::ParseExact((Get-Content '%temp2%'), 'yyyy-MM-dd HH:mm:ss', $null);" ^
@@ -31,7 +30,6 @@ powershell -Command ^
     "$randomTime = $start.AddSeconds($randomSeconds);" ^
     "(Get-Item -LiteralPath '%~1').CreationTime = $randomTime;" ^
     "(Get-Item -LiteralPath '%~1').LastWriteTime = $randomTime;" ^
-    "Write-Host 'Set' $randomTime;"
+    "Write-Host 'Rand' $randomTime;"
 del "%temp1%" "%temp2%"
-echo Done
 pause

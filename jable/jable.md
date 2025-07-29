@@ -16,6 +16,4 @@
 * `麻豆 TV` [[madou.tv]](https://madou.tv/new)
 ## 历史记录
 https://jable.tv/tags/pantyhose/1/  
-https://jable.tv/videos/sone-785/  
-https://www.javlibrary.com/cn/?v=javmeyykyq  
 https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate
