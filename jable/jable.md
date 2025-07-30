@@ -16,4 +16,12 @@
 * `麻豆 TV` [[madou.tv]](https://madou.tv/new)
 ## 历史记录
 https://jable.tv/tags/pantyhose/1/  
-https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate
+https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate  
+```
+START-351
+···
+JUR-410
+
+MRSS-168
+···
+SONE-770
