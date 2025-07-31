@@ -20,8 +20,4 @@ https://translate.google.com/?sl=zh-TW&tl=zh-CN&op=translate
 ```
 START-351
 ···
-JUR-410
-
-MRSS-168
-···
 SONE-770
