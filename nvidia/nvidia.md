@@ -1,6 +1,6 @@
 ## NVIDIA
 * `GeForce Game Ready 驱动程序` [[www.nvidia.cn]](https://www.nvidia.cn/drivers/lookup/)
-* `NVCleanstall` [[www.techpowerup.com]](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)
+* `NVCleanstall` [[www.techpowerup.com]](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)  
 ![](image-4.png)  
 ![](image_2.png)  
 ![](image_3.png)
