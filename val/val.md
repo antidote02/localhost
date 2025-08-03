@@ -1,7 +1,8 @@
 # 特战英豪
 * `特战英豪` [[playvalorant.com]](https://playvalorant.com/zh-tw/download/)
 * `无畏契约` [[val.qq.com]](https://val.qq.com/main.html)
-* `ACE 虚拟化环境检测修复工具` [[space.bilibili.com]](https://space.bilibili.com/355032902)
+* `ACE 虚拟化修复` [[www.qiyou.cn]](https://www.qiyou.cn/) / [[space.bilibili.com]](https://space.bilibili.com/355032902)  
+![alt text](image-1.png)
 * `4:3`
     * `运行`
         ```
