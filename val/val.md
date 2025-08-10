@@ -13,9 +13,9 @@
         * `C:\Program Files (x86)\Tencent Games\VALORANT\live\ShooterGame\Saved\Config`
     * `进入游戏`
         * `显示模式`
-        * `拉伸模式`
+        * `长宽比选项`
 
-        ![alt text](<Valorant Screenshot 2025.07.31 - 23.17.01.79.png>)
+        ![alt text](image-2.png)
         * `退至桌面`
     * 编辑`GameUserSettings.ini`
         ```
