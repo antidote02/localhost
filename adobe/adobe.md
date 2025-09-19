@@ -8,3 +8,4 @@ _m0nkrus 发表于 2025 年 7 月 16 日 下午 12:06_
 
 ## PlugIns
 * `Voukoder` [[www.cgzy.net]](https://www.cgzy.net/14828.html)
+* `Influx` [[www.cgzy.net]](https://www.cgzy.net/5683.html)
