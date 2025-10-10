@@ -5,15 +5,19 @@
 ![alt text](image-5.png)  
 ![alt text](image-6.png)
 * `NVIDIA App` [[www.nvidia.cn]](https://www.nvidia.cn/software/nvidia-app/)  
-![alt text](image-7.png)
-* `NVIDIA 控制面板`  
-![alt text](image-8.png)  
-![alt text](image-9.png)  
-![alt text](image-10.png)  
-![alt text](image-11.png)  
-![alt text](image-2.png)  
-![alt text](image-1.png)  
-![alt text](image-3.png)
+![alt text](image-7.png)  
+![alt text](image-12.png)
+* `NVIDIA 控制面板`
+    * `桌面`  
+    `启用开发者设置`
+    * `
+    功能|设置
+    -|-
+    CUDA - 系统内存回退政策|偏好无系统内存回退政策
+    平滑处理 - 灰度纠正|关
+    * `管理 GPU 性能计数器`  
+    `允许所有用户访问 GPU 性能计数器`
+
 * `设备管理器`  
 ![](image.png)
 * `nvidiaProfileInspector` [[github.com]](https://github.com/Orbmu2k/nvidiaProfileInspector/releases)
