@@ -1,0 +1,149 @@
+{
+  "name": "bilibili",
+  "nodes": [
+    {
+      "id": "03619649-022b-4b9a-8d4d-aa37b18f4f91",
+      "type": "input",
+      "mediaType": "video",
+      "pos": {
+        "x": -100.0,
+        "y": -78.0
+      },
+      "data": {
+        "tracks": []
+      },
+      "inputs": [],
+      "outputs": [
+        [
+          "70963d03-9588-455d-ab94-b32357772bf9"
+        ]
+      ]
+    },
+    {
+      "id": "8d8088e5-ece9-4cc4-8d1f-51c9d8313b2d",
+      "type": "input",
+      "mediaType": "audio",
+      "pos": {
+        "x": -100.0,
+        "y": 32.0
+      },
+      "data": {
+        "tracks": []
+      },
+      "inputs": [],
+      "outputs": [
+        [
+          "fb5adc3b-b56c-49cc-b408-882317f26773"
+        ]
+      ]
+    },
+    {
+      "id": "80e48bf6-6a0c-4167-bd56-f7a37b236969",
+      "type": "encoder",
+      "mediaType": "video",
+      "pos": {
+        "x": 90.0,
+        "y": -79.0
+      },
+      "data": {
+        "id": "hevc_nvenc",
+        "params": {
+          "rc": "vbr",
+          "b": 20000000,
+          "maxrate": 0,
+          "bufsize": 0,
+          "cq": 0,
+          "g": 12,
+          "bf": 0,
+          "preset": 18,
+          "tune": 5
+        },
+        "format": "yuv420p"
+      },
+      "inputs": [
+        [
+          "70963d03-9588-455d-ab94-b32357772bf9"
+        ]
+      ],
+      "outputs": [
+        [
+          "254de467-5c95-4e14-99c1-4770109a39fd"
+        ]
+      ]
+    },
+    {
+      "id": "5904a471-cf40-47ef-9847-6daf5d025fa5",
+      "type": "encoder",
+      "mediaType": "audio",
+      "pos": {
+        "x": 90.0,
+        "y": 32.0
+      },
+      "data": {
+        "id": "aac",
+        "params": {
+          "rc": "cbr",
+          "b": 128000,
+          "profile": "aac_low",
+          "cutoff": 17000
+        },
+        "format": "fltp"
+      },
+      "inputs": [
+        [
+          "fb5adc3b-b56c-49cc-b408-882317f26773"
+        ]
+      ],
+      "outputs": [
+        [
+          "b4eeca8b-20b5-49b1-bc6c-e3b0adcf5d02"
+        ]
+      ]
+    },
+    {
+      "id": "7ebd0ca0-cd83-476d-ab06-7a263acbd120",
+      "type": "muxer",
+      "mediaType": "mux",
+      "pos": {
+        "x": 330.0,
+        "y": -40.0
+      },
+      "data": {
+        "id": "mp4",
+        "params": {}
+      },
+      "inputs": [
+        [
+          "254de467-5c95-4e14-99c1-4770109a39fd"
+        ],
+        [
+          "b4eeca8b-20b5-49b1-bc6c-e3b0adcf5d02"
+        ]
+      ],
+      "outputs": [
+        [
+          "f1ada1e5-9fc6-4777-97ed-1f5d8e8ed33b"
+        ]
+      ]
+    },
+    {
+      "id": "0e3ac7d8-1647-44b6-8c77-2a46ee2810a6",
+      "type": "output",
+      "mediaType": "mux",
+      "pos": {
+        "x": 530.0,
+        "y": -40.0
+      },
+      "data": {
+        "id": "file",
+        "url": "$(OutputFilename)"
+      },
+      "inputs": [
+        [
+          "f1ada1e5-9fc6-4777-97ed-1f5d8e8ed33b"
+        ]
+      ],
+      "outputs": []
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "name": "wechat",
+  "nodes": [
+    {
+      "id": "03619649-022b-4b9a-8d4d-aa37b18f4f91",
+      "type": "input",
+      "mediaType": "video",
+      "pos": {
+        "x": -100.0,
+        "y": -78.0
+      },
+      "data": {
+        "tracks": []
+      },
+      "inputs": [],
+      "outputs": [
+        [
+          "028669c4-83b1-405b-84de-c04d87017231"
+        ]
+      ]
+    },
+    {
+      "id": "8d8088e5-ece9-4cc4-8d1f-51c9d8313b2d",
+      "type": "input",
+      "mediaType": "audio",
+      "pos": {
+        "x": -100.0,
+        "y": 32.0
+      },
+      "data": {
+        "tracks": []
+      },
+      "inputs": [],
+      "outputs": [
+        [
+          "ad81c531-a69b-49d3-9aec-e1638b3d3ffe"
+        ]
+      ]
+    },
+    {
+      "id": "80e48bf6-6a0c-4167-bd56-f7a37b236969",
+      "type": "encoder",
+      "mediaType": "video",
+      "pos": {
+        "x": 90.0,
+        "y": -78.0
+      },
+      "data": {
+        "id": "hevc_nvenc",
+        "params": {
+          "rc": "vbr",
+          "b": 6000000,
+          "maxrate": 0,
+          "bufsize": 0,
+          "cq": 0,
+          "g": 12,
+          "bf": 0,
+          "preset": 18,
+          "tune": 5
+        },
+        "format": "yuv420p"
+      },
+      "inputs": [
+        [
+          "028669c4-83b1-405b-84de-c04d87017231"
+        ]
+      ],
+      "outputs": [
+        [
+          "3448d16c-228e-403d-9d5b-8117a5d4ea5c"
+        ]
+      ]
+    },
+    {
+      "id": "5904a471-cf40-47ef-9847-6daf5d025fa5",
+      "type": "encoder",
+      "mediaType": "audio",
+      "pos": {
+        "x": 90.0,
+        "y": 32.0
+      },
+      "data": {
+        "id": "aac",
+        "params": {
+          "rc": "cbr",
+          "b": 128000,
+          "profile": "aac_low",
+          "cutoff": 17000
+        },
+        "format": "fltp"
+      },
+      "inputs": [
+        [
+          "ad81c531-a69b-49d3-9aec-e1638b3d3ffe"
+        ]
+      ],
+      "outputs": [
+        [
+          "d9d8b522-7e6a-4e1c-8d07-762f961c8149"
+        ]
+      ]
+    },
+    {
+      "id": "7ebd0ca0-cd83-476d-ab06-7a263acbd120",
+      "type": "muxer",
+      "mediaType": "mux",
+      "pos": {
+        "x": 330.0,
+        "y": -40.0
+      },
+      "data": {
+        "id": "mp4",
+        "params": {}
+      },
+      "inputs": [
+        [
+          "3448d16c-228e-403d-9d5b-8117a5d4ea5c"
+        ],
+        [
+          "d9d8b522-7e6a-4e1c-8d07-762f961c8149"
+        ]
+      ],
+      "outputs": [
+        [
+          "c5fb7303-7f9b-41de-a318-19a9647a6322"
+        ]
+      ]
+    },
+    {
+      "id": "0e3ac7d8-1647-44b6-8c77-2a46ee2810a6",
+      "type": "output",
+      "mediaType": "mux",
+      "pos": {
+        "x": 530.0,
+        "y": -40.0
+      },
+      "data": {
+        "id": "file",
+        "url": "$(OutputFilename)"
+      },
+      "inputs": [
+        [
+          "c5fb7303-7f9b-41de-a318-19a9647a6322"
+        ]
+      ],
+      "outputs": []
+    }
+  ]
+}
