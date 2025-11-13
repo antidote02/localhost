@@ -13,7 +13,7 @@
     ```
     git config --global https.proxy https://localhost:7897
     ```
-* `Clear History`
+* `main`
     ```
     git checkout --orphan temp_branch
 
@@ -24,5 +24,5 @@
     git branch -D main
 
     git branch -m main
-    
+
     git push -f origin main
