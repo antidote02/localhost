@@ -7,14 +7,6 @@
     export https_proxy=http://127.0.0.1:7897
 * 以管理员身份运行 `MSYS2 UCRT64`
 ```
-C:\msys64\msys2_shell.cmd -defterm -here -no-start -ucrt64
-
-pacman -Syu
-
-pacman -S git
-
-cd ~
-
 git clone https://github.com/mstorsjo/fdk-aac
 
 cd fdk-aac
@@ -49,8 +41,6 @@ make VersionGen install
 
 cd ~
 
-git clone https://git.ffmpeg.org/ffmpeg
-
 cd ffmpeg
 ```
 * `source code @ github` [[github.com]](https://www.gyan.dev/ffmpeg/builds/#git-master-builds)
@@ -67,3 +57,4 @@ https://github.com/arthenica/ffmpeg-kit
 https://central.sonatype.com/artifact/com.antonkarpenko/ffmpeg-kit-full
 https://github.com/arthenica/ffmpeg-kit/wiki/Building
 https://zhuanlan.zhihu.com/p/707298876
+https://blog.csdn.net/csdn_tom_168/article/details/149607322
