@@ -1,91 +1,20 @@
 ## CS 2
 * `CS 2` [[store.steampowered.com]](https://store.steampowered.com/app/730/CounterStrike_2/)  
-    `属性`  
-    `启动选项`
-    ```
-    +fps_max 0 +fps_max_ui 0 -worldwide
-    // -worldwide
-    // -perfectworld
-    // -allow_third_party_software
-    ```
-    * `Counter-Striker 2`  
-    `各项设置菜单`  
-        * `视频设置`  
-            * `视频`
-                视频|视频设置
-                -|-
-                显示模式|全屏窗口模式
-                纵横比|标准 4:3
-                分辨率|1440X1080
-                亮度|77%
-            * `高级视频设置`
-                高级视频设置|视频设置
-                -|-
-                增强角色对比度|禁用
-                v-Sync|已启用
-                NVIDIA Reflex 低延迟|已启用 + 加速
-                游戏最高 FPS|0
-                菜单最高 FPS|0
-                当前视频值预设|低
-                多重采样抗锯齿模式|2X MSAA
-                动态阴影|全部
-                模型/贴图细节|中
-                贴图过滤模式|异向 16X
-                Fidelity FX 超级分辨率|已禁用
-            * `HUD 边缘位置`
-                HUD 边缘位置|视频设置
-                -|-
-                水平调整|
-                垂直调整|
-        * `音频设置`
-            音频设置|各项设置菜单
-            -|-
-            均衡器简介|清脆
-            麦克风触发阈值|-60
-            主菜单音量|0%
-            回合开始音量|0%
-            回合开始行动音量|0%
-            回合结束音量|40%
-            MVP 音量|40%
-            炸弹/人质音量|0%
-            十秒警告音量|40%
-            死亡视角音量|0%
-        * `游戏设置`
-            游戏设置|各项设置菜单
-            -|-
-            启用开发者控制台|是
-            最大匹配延迟|75
-            CPU 内核使用偏好|优先性能内核
-            HUD 比例|0.90
-            HUD 颜色|白色
-            玩家大计数|是
-            开枪后狙击步枪自动重新开镜|否
-            卸下|M4A1-S 和 USP-S 的消音器|第二开火
-            首选左/右手持枪视角|左
-            雷达保持玩家居中|否
-            雷达地图缩放|0.5
-            准星|CSGO-tNGwp-kDa9F-RZuCP-wQvO4-rGZML
-            闪光震撼弹|0.00
-            高爆手雷|0.00
-            燃烧瓶/燃烧弹|0.00
-            烟雾弹|0.00
-            诱饵弹|0.00
-            预测击杀布娃娃效果|否
-* `pov.vpk` [[www.youtube.com]](https://www.youtube.com/watch?v=vB1b11rRDzI)  
-    `"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pov.vpk"`
-    * 复制`gameinfo.gi`  
-    `"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\gameinfo.gi"`
-    * 编辑`gameinfo.gi`
+    * `启动选项`
         ```
-        World content override
-
-                    Game    csgo/pov.vpk
-                    Game    csgo
-    * `开始游戏`
-        ```
-        cl_spec_show_bindings 0
-
-        cl_drawhud_force_radar -1
+        +fps_max 0 +fps_max_ui 0 -worldwide -nojoy 
+        // -worldwide
+        // -perfectworld
+        // -allow_third_party_software
+    * `各项设置菜单`  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.24.34.36.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.25.02.75.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.25.23.41.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.25.41.66.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.27.00.69.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.29.28.00.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.31.43.51.png>)  
+    ![alt text](<Counter-strike 2 Screenshot 2025.11.27 - 23.32.47.11.png>)  
 * `Counter-Striker 2`  
 `Process Lasso` [[lrepacks.net]](https://lrepacks.net/repaki-sistemnyh-programm/689-process-lasso-repack-amp-portable.html)  
 `cs2.exe`
