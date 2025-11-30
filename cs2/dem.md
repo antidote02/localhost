@@ -1,8 +1,8 @@
 # CS2 Demo
 * `pov.vpk` [[www.youtube.com]](https://www.youtube.com/watch?v=vB1b11rRDzI)  
-    `"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pov.vpk"`
+    `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\pov.vpk`
     * 复制`gameinfo.gi`  
-    `"C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\gameinfo.gi"`
+    `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\gameinfo.gi`
     * 编辑`gameinfo.gi`
         ```
         World content override
@@ -12,8 +12,9 @@
     * `开始游戏`
         ```
         cl_spec_show_bindings 0
-
         cl_drawhud_force_radar -1
+        r_show_build_info 0
+        bind x "radio2;slot12"
 * `HLAE` [[github.com]](https://github.com/advancedfx/advancedfx/releases)
 * `CS2 Config Presets` [[github.com]](https://github.com/Purple-CSGO/CS2-Config-Presets/releases)  
 `C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\game\csgo\cfg`
